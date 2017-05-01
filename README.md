@@ -8,4 +8,4 @@ See [Monty_Hall_Problem](https://en.wikipedia.org/wiki/Monty_Hall_problem) for m
 
 To get help running it:
 
-`python3 Monty_Hall_Problem --help`
+`python3 Monty_Hall_Problem.py --help`
