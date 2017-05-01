@@ -2,6 +2,9 @@
 This is the place where I will put some of the code I write with no specific purpose.
 
 ## Monty_Hall_Problem.py
-This script will execute a defined number of 'iterations' of the Monty Hall problem, 'switching' or not the initial random choice after uncovering one of the empty doors. See https://en.wikipedia.org/wiki/Monty_Hall_problem for more info.
+This script will execute a defined number of 'iterations' of the Monty Hall problem, 
+'switching' or not the initial random choice after uncovering one of the empty doors.
+See https://en.wikipedia.org/wiki/Monty_Hall_problem for more info.
+
 To get help running it:
-´python3 Monty_Hall_Problem --help´
+`python3 Monty_Hall_Problem --help`
